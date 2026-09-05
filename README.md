@@ -3,7 +3,7 @@
 
 <a href="mailto:matheusalg.nb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/e%E2%80%91mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/matheus-lascalla-gomes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/Matheus-nb" target="_blank"><img src="https://img.shields.io/github/followers/Matheus-nb?label=Follow&style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://github.com/matheuslascalla" target="_blank"><img src="https://img.shields.io/github/followers/matheuslascalla?label=Follow&style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
 <ul>
   <li>💻 ┇I'm a Web Developer and a Computer Engineering graduate;</li>
